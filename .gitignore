@@ -1,4 +1,5 @@
 #Ignore FIre
 #
-.xml
-.iml
+*.xml
+*.iml
+>>>>>>> hotfix
